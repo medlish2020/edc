@@ -1,1 +1,2 @@
 git+https://github.com/django-import-export/django-import-export.git@main#egg=django-import-export
+git+https://github.com/ecometrica/django-multisite.git@upgrade-to-django-3.2#egg=django-multisite
