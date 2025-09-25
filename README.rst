@@ -3,6 +3,8 @@
 clinicedc -  A clinical trials data management framework built on Django
 ========================================================================
 
+``The last version of edc is 1.27. The edc modules have been consolidated into a single monorepo. The clinicedc module is a drop in replacement for the separate edc modules. Development continues there.`` See clinicedc_.
+
 A data management framework built on Django for multisite randomized longitudinal clinical trials.
 
 `Here are a set of python modules that extend Django <https://github.com/clinicedc/edc>`__ to empower you to build an EDC / eSource system to handle data
@@ -652,3 +654,8 @@ Thanks to JetBrains for support with an opensource PyCharm IDE license. |jet-bra
 
 .. |django-packages| image:: https://img.shields.io/badge/Published%20on-Django%20Packages-0c3c26
     :target: https://djangopackages.org/packages/p/clinicedc/
+
+.. |cliniedc_repo_actions| image:: https://github.com/clinicedc/clinicedc/actions/workflows/build.yml/badge.svg
+  :target: https://github.com/clinicedc/clinicedc/actions/workflows/build.yml
+
+.. _clinicedc: https://github.com/clinicedc/clinicedc
